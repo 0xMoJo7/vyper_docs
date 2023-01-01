@@ -9,15 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "@babel/runtime-corejs2": "^7.3.4",
-    "css-loader": "^2.1.1",
+    "css-loader": "^6.7.3",
     "rxjs": "^6.4.0",
-    "style-loader": "^0.23.1",
-    "url-loader": "^1.1.2",
+    "style-loader": "^3.3.1",
+    "url-loader": "^4.1.1",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
-    "vue-loader": "^15.4.2",
+    "vue-loader": "^17.0.1",
     "vue-resource": "^1.5.1",
     "vue-template-compiler": "^2.5.17"
   }
